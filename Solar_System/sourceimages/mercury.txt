@@ -1,0 +1,40 @@
+Colorized photo map of Mercury (version 2)
+2k JPG texture
+
+Installation (1.way):
+
+Extract the zip-file to Celestias 'extra'-folder or to a sub-folder.
+
+files:
+celestia\extras\mercury_v2.ssc
+celestia\extras\textures\medres\mercury.jpg
+
+
+Installation (2.way):
+
+1. Copy
+	'mercury.jpg'
+   into celestia\textures\hires folder
+   or medres folder by overwriting the default map.
+
+2. Edit with notepad 'solarsys.ssc' and
+   change following lines in mercury section:
+
+	Texture "mercury.jpg"
+
+   and dissable the bumpmap lines:
+
+	# BumpMap "mercurybump.*"
+	# BumpHeight 1.0
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+These maps were made by Jens Meyer.
+The texture based on maps and pictures form www.solarviews.com produced by  A. Tayfun Oner. 
+http://www.solarviews.com/eng/homepage.htm
+
+
+Send any comments and suggestions to jim at Celestia forum or mail to jimpage@arcor.de.
+http://home.arcor.de/jimpage/
+
+This texture is designed for Celestia and is free for non-commercial use.
