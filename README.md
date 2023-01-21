@@ -6,6 +6,7 @@ At the beginning of 2023, our first assessment for this course was due. For the 
 - [A Knife](/Knife)
 - [A Cross-Body Accessory](https://github.com/KennedySovine/CI474_Introduction_3D_Modeling_and_Animation/tree/main/CrossBody_Accessory)
 - [A Sheath](/Sheath)
+
 All of these items had to be something we wished to include in a game we wanted to make, and all had to make sense in the universe they're placed. We were told to not add lighting or textures, but I did on some of them.
 
 I was going to remake the [Knife](/KnifeButBetter), but found that my original was good enough.
