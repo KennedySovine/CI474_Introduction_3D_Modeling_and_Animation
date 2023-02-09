@@ -14,5 +14,5 @@ I was going to remake the [Knife](/KnifeButBetter), but found that my original w
 The final enviroment for the entire project is [here](https://github.com/KennedySovine/CI474_Introduction_3D_Modeling_and_Animation/blob/main/FINAL%20ASSESSEMENT%201.mb).
 
 ### Concept Art
-| <img src="/Concept_Art_Assessment1/KARMA_PT_CA_1.png" width="300em" height="300em"> | <img src="/Concept_Art_Assessment1/KARMA_KNIFE_CA_1.png" width="300em" height="300em"> | <img src="/Concept_Art_Assessment1/KARMA_SHEATH_CA_1.png" width="300em" height="300em"> |
+| <img src="/Semester_1/Concept_Art_Assessment1/KARMA_PT_CA_1.png" width="300em" height="300em"> | <img src="/Semester_1/Concept_Art_Assessment1/KARMA_KNIFE_CA_1.png" width="300em" height="300em"> | <img src="/Semester_1/Concept_Art_Assessment1/KARMA_SHEATH_CA_1.png" width="300em" height="300em"> |
 | --- | --- | --- |
