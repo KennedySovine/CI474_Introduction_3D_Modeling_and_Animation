@@ -1,4 +1,4 @@
-
+#CU474 - Introduction to 3D Modeling and Animation
 ---
 2022-2023 Intro to 3D Modeling and Animation. Univerisity of Brighton, Computer Science for Games
 ## Assessment 1
